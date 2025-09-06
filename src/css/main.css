@@ -1,1 +1,28 @@
-/* Your CSS here. */
+body {
+  background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.simple-card {
+    background-color: gray;
+    height: 500px;
+    width: 700px;
+    text-align: center;
+    padding: 25px;
+    margin: 25px;
+}
+
+.email-text {
+    font-style: italic;
+    color: white;
+}
